@@ -22,7 +22,7 @@ I'm interested in understanding how electronics, programming, artificial intelli
 | **Operating Systems** | Windows |
 | **Tools & Platforms** | leetcode, GitHub, w3schools |
 
-##📌 Projects & Learning
+## 📌 Projects & Learning
 ⚖️ FairShare — Task and Responsibility Rotator
 A project exploring how tasks can be distributed more fairly among members of a group.
 Designed around availability, workload, and previous assignments.
