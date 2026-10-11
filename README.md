@@ -22,6 +22,13 @@ I'm interested in understanding how electronics, programming, artificial intelli
 | **Operating Systems** | Windows |
 | **Tools & Platforms** | leetcode, GitHub, w3schools |
 
+##📌 Projects & Learning
+⚖️ FairShare — Task and Responsibility Rotator
+A project exploring how tasks can be distributed more fairly among members of a group.
+Designed around availability, workload, and previous assignments.
+Explores task rotation and reassignment when circumstances change.
+Built as a learning project to understand programming, application development, and logical decision-making.
+
 ## 💻 Programming Practice
 A collection of beginner-level programming exercises and experiments as I learn C and java.
 -Practising programming logic and problem-solving.
