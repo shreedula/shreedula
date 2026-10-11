@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Shreedula S 👋
 
+👨‍💻 First-Year ECE Student | Aspiring VLSI Designer & Data scientist | Long-term: Data science
+*Short summary of your background, degree, or core career goals.*
+
+[LinkedIn](https://linkedin.com/in/your-username) • [Email](mailto:your-email@example.com)
 <!--
 **shreedula/shreedula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
