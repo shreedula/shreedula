@@ -40,8 +40,8 @@ I'm at the beginning of my engineering journey, and I'm excited to learn by expe
 ## 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreedula&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreedula&theme=default" alt="GitHub Streak" />
 </p>
 <!--
 **shreedula/shreedula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
