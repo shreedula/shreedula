@@ -38,13 +38,13 @@ A collection of beginner-level programming exercises and experiments as I learn 
 -Learning to write, test, and improve code.
 -Tracking my progress through small coding projects.
 
-##🗺️ My Learning Roadmap
+## 🗺️ My Learning Roadmap
 🟢 Current: Building a foundation in C programming, Python, and data science.
 🔵 Next: Practising problem-solving and developing more independent projects.
 🎯 Future: Explore embedded systems, digital electronics, AI, and hardware-software integration.
 🚀 Long-term Goal: Combine my knowledge of electronics and computing to build useful, practical technology solutions.
 
-##🌱 A Little More About Me
+## 🌱 A Little More About Me
 I'm at the beginning of my engineering journey, and I'm excited to learn by experimenting, building projects, and learning from my mistakes. I believe consistent practice and curiosity are important parts of becoming a good engineer.
 
 ## 📊 GitHub Stats & Metrics
