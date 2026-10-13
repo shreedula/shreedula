@@ -1,11 +1,14 @@
 ## Hi there 👋 I'm Shreedula S 👋
 
-👨‍💻 First-Year ECE Student | Aspiring VLSI Designer & Data scientist | Long-term: Data science
-*I'm a first-year Electronics and Communication Engineering student at St. Joseph's College of Engineering, Chennai. Alongside my engineering degree, I'm pursuing the BS in Data Science and Applications from IIT Madras.
+### 👨‍💻 First-Year ECE Student | Aspiring VLSI Designer & Data scientist | Long-term: Data science ###
 
-I'm interested in understanding how electronics, programming, artificial intelligence, and data science come together to solve real-world problems. I'm currently building my fundamentals in programming and exploring different areas of technology.*
+I'm a first-year Electronics and Communication Engineering student at St. Joseph's College of Engineering, Chennai. Alongside my engineering degree, I'm pursuing the BS in Data Science and Applications from IIT Madras.
 
-[LinkedIn](www.linkedin.com/in/shreedula-s-00a8b9439) • [Email](mailto:shreedula319@gmail.com)
+I'm interested in understanding how electronics, programming, artificial intelligence, and data science come together to solve real-world problems. I'm currently building my fundamentals in programming and exploring different areas of technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreedula-s-00a8b9430)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shreedula)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreedula110@gmail.com)
 
 
 ## 📌 About Me
